@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TeleportObjectController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\GoogleVR\Scripts\Cardboard\GvrReticlePointer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DroneLookOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DroneDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="18" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
