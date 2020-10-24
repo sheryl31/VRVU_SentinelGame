@@ -1,17 +1,17 @@
 # ############################################################################ #
 # Unity generated
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-unity/Assembly-*
-unity/Assets/AssetStoreTools*
-unity/Assets/_TerrainAutoUpgrade*
-unity/Assets/Plugins/Editor.meta
-unity/Assets/Plugins/Editor/*
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Assembly-*
+Assets/AssetStoreTools*
+Assets/_TerrainAutoUpgrade*
+Assets/Plugins/Editor.meta
+Assets/Plugins/Editor/*
 
 # Unity3D generated meta files
 *.pidb.meta
